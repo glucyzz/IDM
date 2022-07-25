@@ -1,6 +1,7 @@
 # IDM 6.41.2
 这里你可以下载到最新的IDM破解版!
-![F2A6DD28-4C2C-43b0-91CC-6F7713410C2A](https://user-images.githubusercontent.com/82938236/180700390-a7f6750b-75bb-4984-8ea5-935090dd73f8.png)
+![F2A6DD28-4C2C-43b0-91CC-6F7713410C2A](https://user-images.githubusercontent.com/82938236/180700540-f05d0bf2-2a26-4797-a788-793546049da2.png)
+
 此软件由System3206修改打包。仅供学习研究，切勿用于一切商业用途！
 以下为修改说明：
 1. 基于IDM官方版修改并制作安装包，双击直接安装，安装后即为注册版，免激活！！
