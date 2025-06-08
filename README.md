@@ -12,4 +12,6 @@
 
 如果您喜欢该软件，请购买支持开发者！
 请给我点一下Star,Thanks!
+
+## Sponsers
 [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
